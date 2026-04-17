@@ -1,9 +1,5 @@
 package logicP;
-/*
- * ass 5
- * 215275512
- * Tal Tikhonov
- */
+
 import gameP.Game;
 import spriteP.Ball;
 import spriteP.Block;
