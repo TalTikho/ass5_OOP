@@ -1,9 +1,5 @@
 package gameP;
-/*
- * ass 5
- * Tal Tikhonov
- * 215275512
- */
+
 import biuoop.DrawSurface;
 import biuoop.GUI;
 import biuoop.KeyboardSensor;
