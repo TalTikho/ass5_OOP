@@ -1,9 +1,4 @@
 package collisionP;
-/*
- * ass 5
- * Tal Tikhonov
- * 215275512
- */
 
 import geometryP.Point;
 /**
