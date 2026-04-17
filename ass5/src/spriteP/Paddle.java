@@ -1,9 +1,5 @@
 package spriteP;
-/*
- * ass 5
- * Tal Tikhonov
- * 215275512
- */
+
 import biuoop.DrawSurface;
 import biuoop.KeyboardSensor;
 import collisionP.Collidable;
