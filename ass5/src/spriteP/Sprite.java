@@ -1,9 +1,5 @@
 package spriteP;
-/*
- * ass 3
- * Tal Tikhonov
- * 215275512
- */
+
 import biuoop.DrawSurface;
 /**
  * The spriteP.Sprite interface represents game objects that can be drawn to the screen
