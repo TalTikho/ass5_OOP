@@ -1,9 +1,5 @@
 package geometryP;
-/*
- * ass 5
- * Tal Tikhonov
- * 215275512
- */
+
 import java.util.ArrayList;
 import java.util.List;
 /**
