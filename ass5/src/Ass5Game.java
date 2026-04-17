@@ -1,8 +1,3 @@
-/**
- * ass 5
- * Tal Tikhonov
- * 215275512
- */
 import gameP.Game;
 /**
  * The main class to run the game.
