@@ -1,9 +1,5 @@
 package geometryP;
-/*
- * ass 5
- * Tal Tikhonov
- * 215275512
- */
+
 import java.util.List;
 /**
  * Represents a line segment between two points.
