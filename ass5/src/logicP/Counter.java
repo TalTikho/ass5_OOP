@@ -1,9 +1,5 @@
 package logicP;
-/*
- * ass 5
- * 215275512
- * Tal Tikhonov
- */
+
 /**
  * Counter.
  */
