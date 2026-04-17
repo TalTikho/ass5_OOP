@@ -1,9 +1,5 @@
 package gameP;
-/*
- * ass 5
- * Tal Tikhonov
- * 215275512
- */
+
 import collisionP.Collidable;
 import collisionP.CollisionInfo;
 import java.util.ArrayList;
