@@ -1,9 +1,5 @@
 package geometryP;
-/*
- * ass 5
- * Tal Tikhonov
- * 215275512
- */
+
 /**
  * Represents a point in a 2D space.
  */
