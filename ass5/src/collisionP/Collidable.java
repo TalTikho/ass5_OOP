@@ -1,9 +1,5 @@
 package collisionP;
-/*
- * ass 5
- * Tal Tikhonov
- * 215275512
- */
+
 import geometryP.Point;
 import geometryP.Rectangle;
 import geometryP.Velocity;
